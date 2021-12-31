@@ -5,7 +5,28 @@
 }
 
 body {
-    color: #2F4454;
+    color: #445876;
     font-family: Helvetica, Arial, sans-serif;
-    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px 35px;
+    background-color: #333333;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #33353e;
+    margin: 0;
+    background-color: #92cccd;
+}
+
+header a {
+    text-decoration: none;
+    color: #33353e;
+    background-color: #92cccd;
 }
