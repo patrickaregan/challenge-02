@@ -23,8 +23,8 @@ header h1 {
     background-color: #92cccd;
     color: #33353e;
     display: flex;
-    font-weight: bold;
     font-size: 36px;
+    font-weight: bold;
     justify-content: right;
     margin: 0;
     padding: 0 10px 0 0;
@@ -61,6 +61,43 @@ header nav ul li a {
 
 header nav ul li a:hover {
     border-color: #33353e;
+}
+
+.hero {
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    background-image: url("../images/hero-bg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 40%;
+    height: 200px;
+}
+
+.hero div {
+    background-color: #92cccd;
+    color: #33353e;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 90px 15px 0;
+    padding: 10px 10px;
+    width: 350px;
+
+}
+
+.blockquote-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.blockquote-author {
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    justify-content: right;
 }
 
 
