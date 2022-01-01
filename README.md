@@ -16,7 +16,11 @@
 
 ## Credits
 
-Arvind Katoch. (December 31, 2021). Quotes about Activity and Participation.
+Arvind Katoch. (December 31, 2021). Quotes about Active Participation.
 Retrieved December 31, 2021,
 from [https://www.quotemaster.org/activity+participation](https://www.quotemaster.org/activity+participation)
+
+David Bartus. (December 30, 2021). License free background images.
+Retrieved December 30, 2021,
+from [https://www.pexels.com/photo/white-and-black-wooden-board-963278/](https://www.pexels.com/photo/white-and-black-wooden-board-963278/)
 

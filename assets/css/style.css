@@ -100,6 +100,38 @@ header nav ul li a:hover {
     justify-content: right;
 }
 
+section {
+    display: flex;
+
+}
+
+section h2 {
+    border-right: 4px solid;
+    border-color: #445876;
+    display: flex;
+    font-size: 46px;
+    justify-content: right;
+    margin: 20px 20px 10px 100px;
+    padding: 10px 10px;
+    text-align: right;
+    vertical-align: top;
+    width: 20%;
+}
+
+section article {
+    display: inline-block;
+    justify-content: left;
+    line-height: 1.5em;
+    vertical-align: top;
+    margin: 10px 15px 10px 5px;
+    padding: 10px 10px;
+    width: 80%;
+}
+
+section article p {
+    padding: 0 0 20px 0;
+}
+
 
 
 
