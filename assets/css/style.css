@@ -149,7 +149,7 @@ section article p {
     border-color:#92cccd;
     display: flex;
     height: 305px;
-    margin: 5px 5px 5px 0;
+    margin: 5px 5px 10px 0;
     width: 653px;
 }
 
@@ -158,12 +158,23 @@ section article p {
     flex-wrap: wrap;
 }
 
-.secondary-app {
+.horiseon-app {
+    background-image: url("../images/horiseon.png");
+    background-size: cover;
     border: 4px solid;
     border-color:#92cccd;
-    height: 150px;
-    margin: 10px 10px 10px 0;
-    width: 308px;
+    height: 147px;
+    margin: 10px 21px 10px 0;
+    width: 315px;
+}
+
+.secondary-app {
+    background-color: gray;
+    border: 4px solid;
+    border-color:#92cccd;
+    height: 147px;
+    margin: 10px 21px 10px 0;
+    width: 315px;
 }
 
 footer {
