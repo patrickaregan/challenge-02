@@ -80,9 +80,9 @@ header nav ul li a:hover {
     color: #33353e;
     font-size: 24px;
     font-weight: bold;
-    margin: 0 90px 15px 0;
+    margin: 0 70px 20px 0;
     padding: 10px 10px;
-    width: 350px;
+    width: 300px;
 
 }
 
@@ -90,6 +90,8 @@ header nav ul li a:hover {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 14px;
     font-style: italic;
+    padding: 10px;
+    text-align: center;
 }
 
 .blockquote-author {
@@ -98,17 +100,16 @@ header nav ul li a:hover {
     font-size: 14px;
     font-weight: bold;
     justify-content: right;
+    padding: 10px;
 }
 
 section {
     display: flex;
-
 }
 
 section h2 {
     border-right: 4px solid;
     border-color: #445876;
-    display: flex;
     font-size: 46px;
     justify-content: right;
     margin: 20px 20px 10px 100px;
@@ -128,10 +129,87 @@ section article {
     width: 80%;
 }
 
+section img {
+    float: left;
+    padding: 0px 20px 0 0;
+}
+
 section article p {
     padding: 0 0 20px 0;
 }
 
+.primary-app {
+    border: 4px solid;
+    border-color:#92cccd;
+    height: 400px;
+    margin: 5px 5px 5px 0;
+    width: 826px;
+}
 
+.secondary-apps {
+    display: flex;
+    flex-wrap: wrap;
+}
 
+.secondary-app {
+    border: 4px solid;
+    border-color:#92cccd;
+    height: 150px;
+    margin: 10px 10px 10px 0;
+    width: 408px;
+}
+
+footer {
+    display: flex;
+}
+
+footer h2 {
+    border-right: 4px solid;
+    border-color: #445876;
+    font-size: 46px;
+    justify-content: right;
+    margin: 20px 20px 10px 100px;
+    padding: 10px 10px;
+    text-align: right;
+    vertical-align: top;
+    width: 20%;
+}
+
+footer div {
+    margin: 50px 15px 50px 5px;
+    padding: 10px 10px;
+    width: 80%;
+}
+  
+footer div ul {
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+footer div ul li span {
+    border-bottom: 4px solid;
+    border-color: #445876;
+    color: #445876;
+    font-weight: lighter;
+    font-size: 18px;
+    margin: 0 5px;
+    padding: 5px 10px;
+}
+  
+footer div ul li a {
+    border-bottom: 4px solid;
+    border-color: #445876;
+    color: #445876;
+    font-weight: lighter;
+    font-size: 18px;
+    margin: 0 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+footer div ul li a:hover {
+    border-color: #ededf6;
+}
 
