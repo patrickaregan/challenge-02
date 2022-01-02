@@ -8,7 +8,7 @@
 
 
 ## Screenshot
-![refactored Horiseon web page](assets/images/screenshot.png)
+![Patrick Regan Portfolio](assets/images/screenshot.png)
 
 
 ## Link
