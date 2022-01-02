@@ -17,6 +17,9 @@ header {
     justify-content: space-between;
     margin: 0;
     padding: 15px 0;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
 }
 
 header h1 {
@@ -140,13 +143,14 @@ section article p {
 }
 
 .primary-app {
-    display: flex;
-    margin: 5px 5px 5px 0;
-}
-
-.primary-app a img {
+    background-image: url("../images/runbuddy.png");
+    background-size: cover;
     border: 4px solid;
     border-color:#92cccd;
+    display: flex;
+    height: 305px;
+    margin: 5px 5px 5px 0;
+    width: 653px;
 }
 
 .secondary-apps {
