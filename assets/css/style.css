@@ -153,6 +153,10 @@ section article p {
     padding: 0 0 0px 0;
 }
 
+.about-me {
+    padding: 0 0 20px 0;
+}
+
 .primary-app {
     background-image: url("../images/runbuddy.png");
     background-size: cover;
