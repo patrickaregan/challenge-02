@@ -21,9 +21,6 @@ header {
     justify-content: space-between;
     margin: 0;
     padding: 15px 0;
-    /* position: -webkit-sticky;
-    position: sticky;
-    top: 0; */
 }
 
 header h1 {
@@ -253,7 +250,7 @@ footer div ul {
 }
 
 footer div ul li span {
-    border-bottom: 4px solid;
+    border-bottom: none;
     border-color: #445876;
     color: #445876;
     font-weight: lighter;
@@ -277,3 +274,86 @@ footer div ul li a:hover {
     border-color: #ededf6;
 }
 /* endFooter */
+
+
+
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+@media screen and (max-width: 980px) {
+  
+    header nav ul li a {
+        font-size: 3.5vw;
+    }
+
+    footer div ul {
+        flex-direction: column;
+    }
+
+    footer div ul li span {
+        border-bottom: none;
+        font-size: 3.5vw;
+    }
+
+    footer div ul li {
+        padding: 15px 0 15px 0;
+    }
+      
+    footer div ul li a {
+        
+        font-size: 3.5vw;
+    }
+  
+  }
+
+/* MEDIA QUERY FOR TABLETS AND SMALLER */
+@media screen and (max-width: 768px) {
+  
+    header nav ul li a {
+        font-size: 3.5vw;
+    }
+
+    footer div ul {
+        flex-direction: column;
+    }
+
+    footer div ul li span {
+        border-bottom: none;
+        font-size: 3.5vw;
+    }
+
+    footer div ul li {
+        padding: 15px 0 15px 0;
+    }
+      
+    footer div ul li a {
+        
+        font-size: 3.5vw;
+    }
+  
+  }
+  
+  /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+  @media screen and (max-width: 575px) {
+    
+    header nav ul li a {
+        font-size: 3.5vw;
+    }
+
+    footer div ul {
+        flex-direction: column;
+    }
+
+    footer div ul li span {
+        border-bottom: none;
+        font-size: 3.5vw;
+    }
+
+    footer div ul li {
+        padding: 15px 0 15px 0;
+    }
+      
+    footer div ul li a {
+        
+        font-size: 3.5vw;
+    }
+  
+  }
