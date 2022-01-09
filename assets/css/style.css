@@ -285,7 +285,7 @@ footer div ul li a:hover {
 @media screen and (max-width: 980px) {
 
     body {
-        font-size: 20px;
+        font-size: 22px;
     }
   
     header nav ul li a {
@@ -360,7 +360,7 @@ footer div ul li a:hover {
 @media screen and (max-width: 768px) {
 
     body {
-        font-size: 20px;
+        font-size: 22px;
     }
   
     header nav ul li a {
@@ -435,7 +435,7 @@ footer div ul li a:hover {
   @media screen and (max-width: 575px) {
 
     body {
-        font-size: 20px;
+        font-size: 22px;
     }
     
     header nav ul li a {
