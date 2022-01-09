@@ -90,7 +90,6 @@ header nav ul li a:hover {
     margin: 0 70px 20px 0;
     padding: 10px 10px;
     width: 300px;
-
 }
 
 .blockquote-text {
@@ -288,6 +287,50 @@ footer div ul li a:hover {
         font-size: 3.5vw;
     }
 
+    .hero div {
+        width: 500px;
+    }
+
+    .blockquote-text {
+        font-size: 2.5vw;
+    }
+    
+    .blockquote-author {
+        font-size: 2.0vw;
+    }
+
+    section {
+        flex-direction: column;
+    }
+    
+    section h2 {
+        border: none;
+        justify-content: left;
+        margin: 10px 0 0 0;
+        text-align: left;
+        width: 100%;
+    }
+    
+    section article {
+        width: 100%;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+    
+    footer h2 {
+        border: none;
+        justify-content: left;
+        margin: 10px 0 0 0;
+        text-align: left;
+        width: 100%;
+    }
+    
+    footer div {
+        width: 100%;
+    }
+
     footer div ul {
         flex-direction: column;
     }
@@ -315,6 +358,50 @@ footer div ul li a:hover {
         font-size: 3.5vw;
     }
 
+    .hero div {
+        width: 500px;
+    }
+
+    .blockquote-text {
+        font-size: 2.5vw;
+    }
+    
+    .blockquote-author {
+        font-size: 2.0vw;
+    }
+
+    section {
+        flex-direction: column;
+    }
+    
+    section h2 {
+        border: none;
+        justify-content: left;
+        margin: 10px 0 0 0;
+        text-align: left;
+        width: 100%;
+    }
+    
+    section article {
+        width: 100%;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+    
+    footer h2 {
+        border: none;
+        justify-content: left;
+        margin: 10px 0 0 0;
+        text-align: left;
+        width: 100%;
+    }
+    
+    footer div {
+        width: 100%;
+    }
+
     footer div ul {
         flex-direction: column;
     }
@@ -340,6 +427,50 @@ footer div ul li a:hover {
     
     header nav ul li a {
         font-size: 3.5vw;
+    }
+
+    .hero div {
+        width: 500px;
+    }
+
+    .blockquote-text {
+        font-size: 2.5vw;
+    }
+    
+    .blockquote-author {
+        font-size: 2.0vw;
+    }
+
+    section {
+        flex-direction: column;
+    }
+    
+    section h2 {
+        border: none;
+        justify-content: left;
+        margin: 10px 0 0 0;
+        text-align: left;
+        width: 100%;
+    }
+    
+    section article {
+        width: 100%;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+    
+    footer h2 {
+        border: none;
+        justify-content: left;
+        margin: 10px 0 0 0;
+        text-align: left;
+        width: 100%;
+    }
+    
+    footer div {
+        width: 100%;
     }
 
     footer div ul {
