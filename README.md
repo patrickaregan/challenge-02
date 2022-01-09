@@ -2,17 +2,17 @@
 
 ## Description
 - This project is my portfolio website. It tells the reader a little bit about me,
-then shows examples of my work and finally, gives the reader multiple ways to contact me.
-- It is important to have a portfolio to show potential employers what your past work is like.
-A good portfolio can help them decide to hire you.
-- It is important for potential employers to see as many examples of your other work so they can
-see if you have the skillset they need for their position.
-- I learned a lot about CSS in class and am putting it to use here. Some specific things I have learned
-are flexbox and media queries. Using flexbox makes it easier to position elements in a container and have
-them resize well when the page is smaller. It is important to have the page look good at smaller resolutions
-because studies show that most people view websites from their phones where the screen resolution is smaller.
-Media queries also helps to make a page look better on smaller screens. I set three breakpoints for smaller
-screens much like we did for the run-buddy project.
+then shows examples of my work and lists multiple ways to contact me.
+- A portfolio website is necessary to show potential employers what your past work is like so they
+can tell if you have the right skillset to join their team.
+- I learned a lot about CSS in class and I'm putting it to use here. Some specific things I have learned
+are flexbox and media queries.
+- I used flexbox to position elements like the navbar at the top and the headers for the three sections, About Me,
+Work and Contact Me. Flexbox makes it easy to position and space elements inside a container and it lets them change
+position when the screen gets smaller.
+- I also used media queries to change the layout for smaller screens. On larger screens the headers are to the left
+of the content but for smaller screens I change the flex-direction to column and put the headers above each section's
+content. This makes it more readable on smaller screens.
 
 
 ## Screenshot
