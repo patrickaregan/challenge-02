@@ -3,16 +3,13 @@
 ## Description
 - This project is my portfolio website. It tells the reader a little bit about me,
 then shows examples of my work and lists multiple ways to contact me.
-- A portfolio website is necessary to show potential employers what your past work is like so they
+- A portfolio website is necessary to show potential employers what your work is like so they
 can tell if you have the right skillset to join their team.
-- I learned a lot about CSS in class and I'm putting it to use here. Some specific things I have learned
+- I learned a lot about CSS in class and I'm putting it to use here. Some specific things I learned
 are flexbox and media queries.
-- I used flexbox to position elements like the navbar at the top and the headers for the three sections, About Me,
-Work and Contact Me. Flexbox makes it easy to position and space elements inside a container and it lets them change
-position when the screen gets smaller.
-- I also used media queries to change the layout for smaller screens. On larger screens the headers are to the left
-of the content but for smaller screens I change the flex-direction to column and put the headers above each section's
-content. This makes it more readable on smaller screens.
+- I used flexbox to position elements like the navbar and the headers for the main sections. Flexbox makes it easy to position and space elements inside a container and it lets them change position when the screen gets smaller.
+- I used media queries to change the layout for smaller screens. On larger screens the headers are to the left
+of the content but for smaller screens I changed the flex-direction property to column and put the headers above each section's content. This makes it more readable on smaller screens.
 
 
 ## Screenshot
