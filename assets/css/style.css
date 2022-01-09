@@ -9,6 +9,7 @@ body {
     background-color: #ededf6;
     color: #445876;
     font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
 }
 /* end Global */
 
@@ -282,6 +283,10 @@ footer div ul li a:hover {
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
+
+    body {
+        font-size: 20px;
+    }
   
     header nav ul li a {
         font-size: 3.5vw;
@@ -353,6 +358,10 @@ footer div ul li a:hover {
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
 @media screen and (max-width: 768px) {
+
+    body {
+        font-size: 20px;
+    }
   
     header nav ul li a {
         font-size: 3.5vw;
@@ -424,6 +433,10 @@ footer div ul li a:hover {
   
   /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
   @media screen and (max-width: 575px) {
+
+    body {
+        font-size: 20px;
+    }
     
     header nav ul li a {
         font-size: 3.5vw;
